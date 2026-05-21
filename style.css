@@ -1,0 +1,28 @@
+.main-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.left-section {
+    margin-right: 100px;
+}
+ 
+.profile-img-wrapper {
+    padding-top: 50px;
+    padding-left: 300px;
+}
+ 
+.left-content {
+    padding-left: 30px;
+}
+ 
+.right-section {
+    padding-right: 300px;
+    background-color: #f4f4f4;
+    padding-left: 100px;
+}
+ 
+.name-wrapper {
+    padding-top: 50px;
+    font-size: xx-large;
+}
